@@ -1,14 +1,16 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
-const MapScreen = () => {
+const EatScreen = () => {
     return (
         <View>
-            <Text>This is some Map</Text>
+            <Text>
+                This is Sample Screen for Uber Eats
+            </Text>
         </View>
     )
 }
 
-export default MapScreen
+export default EatScreen
 
 const styles = StyleSheet.create({})
